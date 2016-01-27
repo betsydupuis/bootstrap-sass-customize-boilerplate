@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-sass-customize-boilerplate",
+  "description": "A boilerplate installation of Bootstrap Sass.",
+  "main": "index.js",
+  "authors": [
+    "Betsy Dupuis <betsydupuis@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bootstrap",
+    "twitter",
+    "sass",
+    "css"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
